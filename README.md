@@ -1,4 +1,4 @@
-# Phantom Blade Zero — Digital Deluxe Edition · Landing Page Tải Torrent
+# Phantom Blade Zero — Digital Deluxe Edition 
 
 ## 🎮 Giới thiệu game
 
