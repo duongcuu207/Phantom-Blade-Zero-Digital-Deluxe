@@ -1,9 +1,5 @@
 # Phantom Blade Zero — Digital Deluxe Edition · Landing Page Tải Torrent
 
-Trang web tĩnh (HTML + CSS + JS thuần) giới thiệu và cho phép tải game **Phantom Blade Zero (影之刃零) — Digital Deluxe Edition** qua torrent. Giao diện theo chủ đề **dark fantasy / dark wuxia / kungfupunk**.
-
----
-
 ## 🎮 Giới thiệu game
 
 ### Phantom Blade Zero là gì?
