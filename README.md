@@ -38,23 +38,5 @@ Người chơi vào vai **Soul** — sát thủ hàng đầu của tổ chức b
 
 ---
 
-## 🎨 Tông màu chủ đạo
 
-| Màu | Mã | Vai trò |
-|---|---|---|
-| Đen | `#050506 → #14141a` | Nền chính, thế giới võ lâm tăm tối |
-| Xám | `#0f0f13`, `#26252d` | Panel, viền, tàn tích cơ khí |
-| Đỏ máu | `#c8102e` | Điểm nhấn: tiêu đề, nút tải, mạch máu |
-| Bạc kim loại | `#c4c9cf` | Chữ "thép", chip, giáp/kiếm Blood-Steel |
-
-## 📁 Cấu trúc thư mục
-
-```
-Rugame/
-├── index.html                        # Cấu trúc trang (nội dung tiếng Việt)
-├── style.css                         # Toàn bộ giao diện (bảng màu chủ đề)
-├── script.js                         # Tương tác: countdown, magnet, torrent, hạt nền
-├── PhantomBladeZero-Deluxe.torrent   # File torrent thật (đặt cạnh index.html)
-└── README.md
-```
 
